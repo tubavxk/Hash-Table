@@ -5,7 +5,7 @@ class kisiyönetim
 {
     static Hashtable kisiler = new Hashtable();
 
-    static void main()
+    static void Main()
     {
         while (true)
         {
